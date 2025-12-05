@@ -41,7 +41,7 @@ It contains realistic business entities:
 
 - Shippers
 
-### Northwind is ideal for analytics involving:
+**Northwind is ideal for analytics involving:**
 
 - Revenue performance
 
@@ -51,7 +51,7 @@ It contains realistic business entities:
 
 - Shipping delays
 
-### Employee sales productivity
+**Employee sales productivity**
 
 📥 Dataset Source (PostgreSQL compatible):
 👉 https://github.com/pthom/northwind_psql
