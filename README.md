@@ -5,7 +5,7 @@ This project demonstrates an end-to-end Data Analytics workflow using **PostgreS
 
 ---
 
-## Project Overview
+## Objective
 
 The primary objective of this project is to answer basic → intermediate → advanced business questions using SQL and bring those insights into a fully interactive Power BI dashboard.
 
