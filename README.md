@@ -1,3 +1,7 @@
+![Northwind Banner](banner.png)
+
+---
+
 # 📊 Northwind Business Performance Analysis (SQL + Power BI)
 
 ## Overview
