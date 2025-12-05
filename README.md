@@ -135,7 +135,7 @@ After SQL extraction, Power BI was used for:
   
 ---
   ## 🖼 Dashboard Preview
-![Northwind Dashboard](dashboard.png)
+![Northwind Dashboard](PowerBI/northwind_dashboard.png)
 
 ---
 ## 🎯 Business Insights
